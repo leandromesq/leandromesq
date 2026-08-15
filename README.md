@@ -1,25 +1,39 @@
+# Leandro Mesquita
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=295&color=gradient&text=lelezo.dev&section=header&reversal=false&textBg=false)
+**Desenvolvedor Flutter & Dart · Clean Architecture, Firebase, Supabase e offline-first · Apps mobile e web · Ciência da Computação 🇧🇷**
 
-# Olá, eu sou Leandro!
+Desenvolvedor Flutter com foco em aplicativos mobile e web para clientes freelance: arquitetura limpa, integração com Firebase e Supabase e suporte a uso offline.
 
+## Stack
 
-## 🚀 Sobre mim
-Sou desenvolvedor mobile, trabalho com flutter/dart e tenho interesse na área de desenvolvimento de jogos, apesar de ainda não ter experiência.
+- **Mobile & Web** — Flutter, Dart
+- **Arquitetura** — Clean Architecture, Riverpod, GetIt, go_router, Drift (offline-first)
+- **Backend & serviços** — Firebase, Supabase
+- **Extras** — internacionalização (i18n), geração de PDFs e gráficos, Next.js/TypeScript
 
+## Projetos
 
-👩‍💻 Trabalhando como analista de sistemas/dev mobile na Brid Soluções
+### [anasoil](https://github.com/leandromesq/anasoil)
 
-🧠 Aprendendo Godot e me aprimorando meus conhecimentos em Dart/Flutter
+Monorepo Flutter com app mobile e painel admin web para interpretação de análises de solo no agronegócio. Firebase, Clean Architecture, GetIt, go_router, geração de PDFs e gráficos.
 
-🎙️ Músico no tempo livre
+### pokeboxd
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-mesquita-b41564306/)
+Rede social Pokémon no estilo Letterboxd. Flutter, Riverpod, Supabase, Drift (offline-first) e i18n.
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lelezonio)
+### [unburden](https://github.com/leandromesq/unburden)
 
+Calculadora de dano Pokémon VGC. Next.js, TypeScript e @smogon/calc.
 
-## 🛠 Habilidades
-Dart, Flutter, SQLite
+## O que posso entregar
 
+- Aplicativos **mobile** (Android/iOS) e **web** com Flutter
+- Painéis admin e dashboards web
+- Integrações com **Firebase** e **Supabase**
+- Apps **offline-first** com dados locais e sincronização
+- Organização e evolução de código com **Clean Architecture**
+- Sites e ferramentas web com **Next.js/TypeScript**
+
+## Contato
+
+- GitHub: [github.com/leandromesq](https://github.com/leandromesq)
