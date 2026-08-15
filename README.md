@@ -6,16 +6,16 @@
 
 ## About
 
-Software engineer working with **Flutter/Dart** since 2024. Currently a **Mid-level Systems Analyst (Flutter)** at **Brid Soluções**, building a production CRM for Android/iOS — MVVM architecture, offline-first synchronization, and CI/CD pipelines for Play Store/App Store releases.
+Flutter developer working with **Flutter/Dart** since 2024. Currently a **Mid-level Systems Analyst (Flutter)** at **Brid Soluções**, building a production CRM for Android/iOS — MVVM architecture, offline-first synchronization, and CI/CD pipelines for Play Store/App Store releases.
 
 - 2+ years of continuous professional experience in production mobile development
 - Computer Science undergraduate (expected graduation 2027)
-- English: fluent — completed course + 6-month exchange in Canada
+- English: fluent — completed a course and a 6-month exchange in Canada
 
 ## Experience
 
 **Brid Soluções · Mid-level Systems Analyst (Flutter)** — Feb 2026 · present
-- MVVM modules in the CRM, technical scope and requirements gathering, background offline-first sync
+- MVVM modules in the CRM, technical scoping and requirements gathering, background offline-first sync
 
 **Brid Soluções · Junior Systems Analyst (Flutter)** — Feb 2025 · Feb 2026
 - Restructured critical CRM modules, fixed performance bottlenecks, CI/CD pipelines (Play Store/App Store) cutting release time from 2–3h to ~30min
@@ -55,13 +55,13 @@ Letterboxd-style Pokémon review social network (private repository — demonstr
 <details>
 <summary><b>🇧🇷 Português — versão completa</b></summary>
 
-# Leandro Mesquita
+## Leandro Mesquita
 
 **Desenvolvedor Flutter · MVVM & Clean Architecture · offline-first · Firebase & Supabase · Ciência da Computação (em curso)**
 
 ## Sobre
 
-Engenheiro de software trabalhando com **Flutter/Dart** desde 2024. Atualmente **Analista de Sistemas Pleno (Flutter)** na **Brid Soluções**, atuando em CRM Android/iOS em produção — arquitetura MVVM, sincronização offline-first e pipelines de CI/CD para releases na Play Store/App Store.
+Desenvolvedor Flutter trabalhando com **Flutter/Dart** desde 2024. Atualmente **Analista de Sistemas Pleno (Flutter)** na **Brid Soluções**, atuando em CRM Android/iOS em produção — arquitetura MVVM, sincronização offline-first e pipelines de CI/CD para releases na Play Store/App Store.
 
 - 2+ anos de experiência profissional contínua em desenvolvimento mobile em produção
 - Cursando Ciência da Computação (conclusão prevista 2027)
