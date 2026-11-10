@@ -1,108 +1,30 @@
-# Leandro Mesquita
+### hey, I'm Leandro 👋
 
-**Flutter Developer · MVVM & Clean Architecture · offline-first · Firebase & Supabase · B.Sc. Computer Science (in progress)**
+I build Flutter apps for a living, and I've been doing it since 2024. These days I work on a CRM app for Android and iOS at Brid Soluções. Most of my time goes into offline-first sync and keeping releases boring.
 
----
+Finishing a Computer Science degree in Londrina, Brazil.
 
-## About
+**What I'm into right now**
 
-Flutter developer working with **Flutter/Dart** since 2024. Currently a **Mid-level Systems Analyst (Flutter)** at **Brid Soluções**, building a production CRM for Android/iOS — MVVM architecture, offline-first synchronization, and CI/CD pipelines for Play Store/App Store releases.
+- 🧪 [tcc-pokemon-dsl](https://github.com/leandromesq/tcc-pokemon-dsl): my thesis. It's a small language for describing Pokémon battle scenarios, with a lexer and parser in Java, and it runs the damage math through the Smogon engine.
+- ⚔️ [unburden](https://github.com/leandromesq/unburden): a damage calculator for Pokémon VGC, built with Next.js. [Try it](https://unburdenvgc.com).
+- 📱 pokeboxd: Letterboxd, but for Pokémon. It's built in Flutter with Supabase. The repo is private, but I'm happy to show it.
+- 🌱 [anasoil](https://github.com/leandromesq/anasoil): a Flutter app and web admin panel that read soil analysis PDFs and interpret the results for agribusiness.
+- 🖥️ A homelab: an old Mac mini running NixOS. It backs up my phone and runs my AI agents, a couple of which keep it tidy.
 
-- 2+ years of continuous professional experience in production mobile development
-- Computer Science undergraduate (expected graduation 2027)
-- English: fluent — completed a course and a 6-month exchange in Canada
+You might notice a Pokémon theme. Yes, it's on purpose.
 
-## Experience
+**Usual tools:** Flutter, Dart, Riverpod, Drift, Firebase, Supabase, Fastlane, and lately TypeScript and Nix.
 
-**Brid Soluções · Mid-level Systems Analyst (Flutter)** — Feb 2026 · present
-- MVVM modules in the CRM, technical scoping and requirements gathering, background offline-first sync
-
-**Brid Soluções · Junior Systems Analyst (Flutter)** — Feb 2025 · Feb 2026
-- Restructured critical CRM modules, fixed performance bottlenecks, CI/CD pipelines (Play Store/App Store) cutting release time from 2–3h to ~30min
-
-**Brid Soluções · Intern/Trainee (Flutter)** — Feb 2024 · Feb 2025
-- Bug fixes and new features in a Flutter CRM; introduced release notes for support/QA
-
-## Stack
-
-- **Mobile & Web** — Flutter, Dart (Android/iOS)
-- **Architecture** — MVVM, Clean Architecture, Riverpod, GetIt, go_router, Drift (offline-first), async widgets (FutureBuilder/StreamBuilder)
-- **Backend & services** — Firebase, Supabase
-- **Release** — CI/CD, Fastlane, Play Store & App Store builds/deploys
-- **Extras** — internationalization (i18n), PDF data reading/extraction, charts
-- **Languages** — Portuguese (native), English (fluent)
-
-## Projects
-
-### [anasoil](https://github.com/leandromesq/anasoil)
-
-Flutter monorepo — mobile app + web admin panel for soil analysis interpretation in agribusiness. Firebase, Clean Architecture, GetIt, go_router, PDF data extraction, charts.
-
-### [unburden](https://github.com/leandromesq/unburden)
-
-Pokémon VGC damage calculator (side project). Next.js, TypeScript, @smogon/calc.
-
-### pokeboxd
-
-Letterboxd-style Pokémon review social network (private repository — demonstrable on request). Flutter, Riverpod, Supabase, Drift (offline-first), i18n.
-
-## Contact
-
-- GitHub: [github.com/leandromesq](https://github.com/leandromesq)
-
----
+I speak Portuguese and English. Feel free to say hi.
 
 <details>
-<summary><b>🇧🇷 Português — versão completa</b></summary>
+<summary>🇧🇷 pt-br</summary>
 
-## Leandro Mesquita
+<br>
 
-**Desenvolvedor Flutter · MVVM & Clean Architecture · offline-first · Firebase & Supabase · Ciência da Computação (em curso)**
+Oi, eu sou o Leandro. Trabalho com Flutter desde 2024 e hoje cuido de um app CRM Android/iOS na Brid Soluções. Meu dia é quase todo sincronização offline-first e simplificar o release.
 
-## Sobre
-
-Desenvolvedor Flutter trabalhando com **Flutter/Dart** desde 2024. Atualmente **Analista de Sistemas Pleno (Flutter)** na **Brid Soluções**, atuando em CRM Android/iOS em produção — arquitetura MVVM, sincronização offline-first e pipelines de CI/CD para releases na Play Store/App Store.
-
-- 2+ anos de experiência profissional contínua em desenvolvimento mobile em produção
-- Cursando Ciência da Computação (conclusão prevista 2027)
-- Inglês fluente — curso concluído + intercâmbio de 6 meses no Canadá
-
-## Experiência
-
-**Brid Soluções · Analista de Sistemas Pleno (Flutter)** — fev/2026 · atual
-- Módulos MVVM no CRM, escopo e levantamento de requisitos técnicos, sincronização offline-first em segundo plano
-
-**Brid Soluções · Analista de Sistemas Júnior (Flutter)** — fev/2025 · fev/2026
-- Reestruturação de módulos críticos do CRM, correção de gargalos de performance, pipelines de CI/CD (Play Store/App Store) reduzindo o release de 2–3h para ~30min
-
-**Brid Soluções · Estagiário/Trainee (Flutter)** — fev/2024 · fev/2025
-- Correção de bugs e novas features em CRM Flutter; introdução de release notes para suporte/QA
-
-## Stack
-
-- **Mobile & Web** — Flutter, Dart (Android/iOS)
-- **Arquitetura** — MVVM, Clean Architecture, Riverpod, GetIt, go_router, Drift (offline-first), widgets assíncronos (FutureBuilder/StreamBuilder)
-- **Backend & serviços** — Firebase, Supabase
-- **Release** — CI/CD, Fastlane, builds/deploys Play Store e App Store
-- **Extras** — internacionalização (i18n), leitura e extração de dados de PDF, gráficos
-- **Idiomas** — Português (nativo), Inglês (fluente)
-
-## Projetos
-
-### [anasoil](https://github.com/leandromesq/anasoil)
-
-Monorepo Flutter — app mobile + painel admin web para interpretação de análises de solo no agronegócio. Firebase, Clean Architecture, GetIt, go_router, leitura e extração de dados de PDF, gráficos.
-
-### [unburden](https://github.com/leandromesq/unburden)
-
-Calculadora de dano Pokémon VGC (projeto complementar). Next.js, TypeScript e @smogon/calc.
-
-### pokeboxd
-
-Rede social de avaliação de Pokémon estilo Letterboxd (repositório privado — demonstrável sob solicitação). Flutter, Riverpod, Supabase, Drift (offline-first) e i18n.
-
-## Contato
-
-- GitHub: [github.com/leandromesq](https://github.com/leandromesq)
+Estou terminando Ciência da Computação em Londrina. Meu TCC é uma linguagem para descrever cenários de batalha Pokémon, e tenho um homelab num Mac mini antigo com NixOS. Os projetos estão logo acima.
 
 </details>
